@@ -28,7 +28,7 @@
 .main-img{
     display: flex;
     width: 50%;
-    height: 600px;
+    height: auto;
 }
 
 .main-img img{
