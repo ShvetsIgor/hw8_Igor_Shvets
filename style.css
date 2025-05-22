@@ -16,6 +16,7 @@
     width: calc(100% / 7);
     height: auto;
     padding: 10px;
+    border-radius: 30px;
 }
 
 .main_body{
@@ -32,6 +33,7 @@
 
 .main-img img{
     width: 100%;
+    border-radius: 20px;
 }
 
 .info{
